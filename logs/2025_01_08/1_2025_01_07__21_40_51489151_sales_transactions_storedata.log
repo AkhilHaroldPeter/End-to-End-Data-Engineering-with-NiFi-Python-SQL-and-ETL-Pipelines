@@ -1,0 +1,6 @@
+[2025-01-08 11:50:14,687] [INFO] ##########################################################################################
+[2025-01-08 11:50:14,687] [INFO] DATA INGESTION STAGE
+[2025-01-08 11:50:14,687] [WARNING] Filename:2025_01_07__21_40_51489151_sales_transactions_storedata.xlsx | Batch ID: 1
+[2025-01-08 11:50:14,687] [CRITICAL] File Received at: 2025-01-07T21:40:52+0530
+[2025-01-08 11:50:14,687] [DEBUG] File has been successfully picked up from'C:/Users/akhil/Programming/Data Engineering Projects/Data Engineering Project 1/Input/LOCAL/'
+[2025-01-08 11:50:14,690] [ERROR] ##########################################################################################

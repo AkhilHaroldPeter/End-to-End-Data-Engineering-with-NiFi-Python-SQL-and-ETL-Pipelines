@@ -1,0 +1,7 @@
+[2025-01-19 19:22:57,024] [INFO] ##########################################################################################
+[2025-01-19 19:22:57,024] [INFO] DATA INGESTION STAGE
+[2025-01-19 19:22:57,025] [INFO] Filename: 2025_01_19__19_21_10995467_sales_transactions_storedata.xlsx | Batch ID: 10
+[2025-01-19 19:22:57,025] [INFO] File Received at: 2025-01-19 19:22:55
+[2025-01-19 19:22:57,025] [INFO] File has been successfully picked up from 'C:/Users/akhil/Programming/Data Engineering Projects/Data Engineering Project 1/Input/LOCAL/'
+[2025-01-19 19:22:57,025] [INFO] DATA INGESTION STAGE [SUCCESS]
+[2025-01-19 19:22:57,025] [INFO] ##########################################################################################

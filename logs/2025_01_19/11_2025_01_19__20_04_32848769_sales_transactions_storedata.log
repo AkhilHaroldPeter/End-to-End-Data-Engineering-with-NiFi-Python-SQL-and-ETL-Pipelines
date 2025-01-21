@@ -1,0 +1,7 @@
+[2025-01-19 20:05:42,796] [INFO] ##########################################################################################
+[2025-01-19 20:05:42,796] [INFO] DATA INGESTION STAGE
+[2025-01-19 20:05:42,796] [INFO] Filename: 2025_01_19__20_04_32848769_sales_transactions_storedata.json | Batch ID: 11
+[2025-01-19 20:05:42,796] [INFO] File Received at: 2025-01-19 20:05:12
+[2025-01-19 20:05:42,796] [INFO] File has been successfully picked up from 'C:/Users/akhil/Programming/Data Engineering Projects/Data Engineering Project 1/Input/LOCAL/'
+[2025-01-19 20:05:42,797] [INFO] DATA INGESTION STAGE [SUCCESS]
+[2025-01-19 20:05:42,797] [INFO] ##########################################################################################
